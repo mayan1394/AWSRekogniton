@@ -14,7 +14,7 @@ import pandas as pd
 # In[2]:
 
 
-os.chdir("C:\Project Work\Mayank_Data\GCP Test")
+os.chdir("Enter the address of the folder where your images are kept")
 
 
 # In[3]:
